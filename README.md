@@ -21,8 +21,13 @@
 <a href="https://linkedin.com/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
 <a href="https://github.com/vivekkale109" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="mailto:vivekkale109@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
