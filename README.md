@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Kale</h1>
 <h3 align="center">Computer Science Student | Linux Enthusiast | Developer</h3>
 
+<!-- ✨ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+Developer;CS+Student;Linux+Learner;Always+Improving" />
 </p>
 
+<!-- 👀 PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
@@ -15,19 +17,19 @@
 ## 🎓 About Me
 
 I am currently pursuing a degree in Computer Science and building a strong foundation in programming and software development.  
-I enjoy learning new technologies and applying them through projects to improve my practical skills.
+I enjoy learning new technologies and applying them through projects.
 
 - 🌱 Currently learning **Data Structures & Web Development**
 - 💻 Working with **C, C++, Java, Python, JavaScript**
 - 🐧 Interested in **Linux & System Programming**
-- 🚀 Focused on **real-world projects and problem-solving**
+- 🚀 Focused on **projects and problem-solving**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,linux,git,github,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,linux,bash,git,github,vscode" />
 </p>
 
 ---
@@ -35,8 +37,8 @@ I enjoy learning new technologies and applying them through projects to improve 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -44,7 +46,15 @@ I enjoy learning new technologies and applying them through projects to improve 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vivekkale109" />
+  <img src="https://streak-stats.demolab.com/?user=vivekkale109&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/vivekkale109/vivekkale109/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -52,13 +62,13 @@ I enjoy learning new technologies and applying them through projects to improve 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-2&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:YOUR-EMAIL@gmail.com">
@@ -67,6 +77,14 @@ I enjoy learning new technologies and applying them through projects to improve 
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
 </p>
 
 ---
