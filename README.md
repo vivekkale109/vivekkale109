@@ -22,15 +22,19 @@
 
 I'm a passionate Computer Science student from India, dedicated to building scalable and efficient software solutions. With a strong foundation in DSA and web development, I'm on a journey to become a skilled Full Stack Developer.
 
-```yaml
-Name: Vivek Kale
-Location: India
-Role: Computer Science Student | Developer
-Current Focus: Full Stack Development, DSA, Linux
-Currently Learning: Advanced Web Development, System Design
-Open To: Internships, Collaborations & Open Source
-Email: vivekkale109@gmail.com
-```
+- 🎓 Currently pursuing my degree in Computer Science  
+- 💻 Interested in **Web Development, Programming, and System Design**  
+- 🌱 Currently learning **Data Structures & Algorithms, JavaScript, and Backend Development**  
+- ⚡ I enjoy building projects, exploring new technologies, and improving my coding skills  
+- 🐧 Comfortable working in Linux environments and love customizing my setup  
+- 🎯 Goal: To become a skilled developer and contribute to real-world impactful projects  
+
+---
+### 🚀 What I Like Doing
+- 🔹 Building small tools and projects to solve real problems  
+- 🔹 Learning new technologies and improving problem-solving skills  
+- 🔹 Exploring open-source and developer communities  
+
 
 ---
 
@@ -104,16 +108,6 @@ Email: vivekkale109@gmail.com
 </ul>
 
 ---
-
-<!-- ================= ACHIEVEMENTS ================= -->
-<h2>🏆 Achievements</h2>
-
-<ul>
-  <li>📌 Solved 100+ DSA problems on competitive coding platforms</li>
-  <li>📌 Contributed to multiple open-source projects</li>
-  <li>📌 Built and deployed multiple full-stack projects</li>
-  <li>📌 Strong foundation in system programming and Linux</li>
-</ul>
 
 ---
 
