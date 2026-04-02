@@ -1,94 +1,75 @@
-<!-- 🔷 HEADER -->
 <h1 align="center">Hi 👋, I'm Vivek Kale</h1>
-<h3 align="center">Computer Science Student | Linux Enthusiast | Developer</h3>
+<h3 align="center">💻 Computer Science Student | Linux Enthusiast | Developer</h3>
 
-<!-- ✨ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=0E75B6&center=true&vCenter=true&width=500&lines=Passionate+Developer;CS+Student;Linux+Learner;Always+Improving" />
-</p>
-
-<!-- 👀 PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+Developer;Linux+Lover+🐧;Open+Source+Explorer;Always+Learning+🚀">
 </p>
 
 ---
 
-## 🎓 About Me
-
-I am currently pursuing a degree in Computer Science and building a strong foundation in programming and software development.  
-I enjoy learning new technologies and applying them through projects.
-
-- 🌱 Currently learning **Data Structures & Web Development**
-- 💻 Working with **C, C++, Java, Python, JavaScript**
-- 🐧 Interested in **Linux & System Programming**
-- 🚀 Focused on **projects and problem-solving**
+## 🧑‍💻 About Me
+- 🎓 CS Student  
+- 🐧 Love working with Linux (Arch btw 😎)  
+- 💡 Interested in Systems, DevOps & Programming  
+- 🚀 Currently learning: **Full Stack + System Programming**  
+- 📫 Reach me: **vivekkale109@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/vivekkale109" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,linux,bash,git,github,vscode" />
+---
+
+## ⚒️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,linux,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
-
+## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vivekkale109&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🚀 Projects
+- 🔹 System Monitor (Linux)
+- 🔹 Smart Calculator
+- 🔹 Portfolio Website (Coming Soon)
 
+---
+
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/vivekkale109/vivekkale109/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
+## 👀 Profile Views
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-2&theme=tokyonight" />
+<img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</p>
-
----
-
-<p align="center">
-  ⭐ <i>Keep Learning • Keep Building • Keep Growing</i>
-</p>
+## ⚡ Fun Fact
+> I use Arch Linux btw 😎
