@@ -18,7 +18,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/" target="blank">
+<a href="https://linkedin.com/vivek-kale-8095483b9" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
