@@ -179,19 +179,11 @@ Here are some ideas to get you started:
 
 
 
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
+
 
 <!-- Ending -->
 <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>@JoshuaThadi.</strong>
-</p>
+
