@@ -58,17 +58,6 @@
 
 
 
-### 🌐 Web Development
-- HTML
-- CSS
-- Node.js
-
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Linux (Arch Linux 🐧)
-- VS Code
-- Bash / Shell
-
 ---
 
 ## 🔥 Projects
