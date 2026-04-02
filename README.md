@@ -28,7 +28,7 @@
 - 💡 Passionate about Linux, low-level systems & development  
 - 🔧 Love building projects and exploring how things work internally  
 - 🚀 Currently learning: Full Stack Development & System Programming  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **vivekkale109@gmail.com**
 
 ---
 
