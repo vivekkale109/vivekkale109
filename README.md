@@ -1,87 +1,115 @@
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Vivek Kale</h1>
-<h3 align="center">💻 Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Future Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Developer;Learning+Full+Stack+Development;Always+Improving+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;DSA+%7C+Web+Dev+%7C+Linux;Building+Projects+Everyday+🚀;Learning+Something+New+Daily+💡">
 </p>
 
 ---
 
-  <!-- Total Stars -->
-  <a href="https://github.com/vivekkale109?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/vivekkale109?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/vivekkale109?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/vivekkale109?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-
-  <a style="display:block;" href="https://github.com/vivekkale109?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/vivekkale109" /></a>
-  
-</div>
-<br>
-
-## 🧑‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Interested in Software Development & Problem Solving  
-- 🌱 Currently learning **Web Development & Programming**  
-- 🤝 Open to collaboration on projects  
-- 📫 Reach me: **vivekkale109@gmail.com**
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/vivek-kale-8095483b9" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/vivekkale109" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="mailto:vivekkale109@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
-
----
-
-## ⚒️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- ================= BADGES ================= -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=default" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=default" />
+  <img src="https://img.shields.io/github/stars/vivekkale109?style=for-the-badge&color=yellow&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/followers/vivekkale109?style=for-the-badge&color=blue&logo=github&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=vivekkale109&style=for-the-badge&color=brightgreen" />
 </p>
 
 ---
 
-## 🧠 Most Used Languages
+<!-- ================= ABOUT ================= -->
+<h2>🧑‍💻 About Me</h2>
+
+```yaml
+Name: Vivek Kale
+Role: Computer Science Student
+Focus: Software Development + Problem Solving
+Currently Learning: Web Development, DSA
+Tech Interest: Backend + Systems + Linux
+Open To: Collaboration & Open Source
+Email: vivekkale109@gmail.com
+```
+
+---
+
+<!-- ================= SOCIAL ================= -->
+<h2>🌐 Connect With Me</h2>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=default" />
+  <a href="https://linkedin.com/vivek-kale-8095483b9">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://github.com/vivekkale109">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="mailto:vivekkale109@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Projects
-- 🔹 System Monitor  
-- 🔹 Smart Calculator  
-- 🔹 Portfolio Website (in progress)
+<!-- ================= TECH STACK ================= -->
+<h2>⚒️ Tech Stack</h2>
 
----
-
-## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,git,github,vscode,linux" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
-> I enjoy building projects and learning new technologies.
+<!-- ================= STATS ================= -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= LANGUAGES ================= -->
+<h2>🧠 Most Used Languages</h2>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li>🔹 <b>System Monitor (Linux)</b> – Track CPU, RAM, Disk using /proc</li>
+  <li>🔹 <b>Smart Calculator</b> – Advanced math + scientific functions</li>
+  <li>🔹 <b>Portfolio Website</b> – Personal developer website</li>
+</ul>
+
+---
+
+<!-- ================= GOALS ================= -->
+<h2>🎯 Goals 2026</h2>
+
+<ul>
+  <li>📌 Master Data Structures & Algorithms</li>
+  <li>📌 Become Full Stack Developer</li>
+  <li>📌 Contribute to Open Source</li>
+  <li>📌 Build real-world impactful projects</li>
+</ul>
+
+---
+
+<!-- ================= FUN ================= -->
+<h2>⚡ Fun Fact</h2>
+
+<p>
+💡 I enjoy building real-world projects and exploring new technologies every day.
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  ⭐ From <b>Vivek Kale</b> | Keep Coding 🚀
+</p>
