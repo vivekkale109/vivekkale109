@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vivek Kale</h1>
-<h3 align="center">💻 Computer Science Student | Linux Enthusiast | Developer</h3>
+<h3 align="center">💻 Computer Science Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=500&lines=Passionate+Developer;Linux+Lover+🐧;Open+Source+Explorer;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Developer;Learning+Full+Stack+Development;Always+Improving+🚀">
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 CS Student  
-- 🐧 Love working with Linux (Arch btw 😎)  
-- 💡 Interested in Systems, DevOps & Programming  
-- 🚀 Currently learning: **Full Stack + System Programming**  
+- 🎓 Computer Science Student  
+- 💻 Interested in Software Development & Problem Solving  
+- 🌱 Currently learning **Web Development & Programming**  
+- 🤝 Open to collaboration on projects  
 - 📫 Reach me: **vivekkale109@gmail.com**
 
 ---
@@ -30,37 +30,30 @@
 
 ## ⚒️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=default" />
 </p>
 
 ---
 
 ## 🧠 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=default" />
 </p>
 
 ---
 
 ## 🚀 Projects
-- 🔹 System Monitor (Linux)
-- 🔹 Smart Calculator
-- 🔹 Portfolio Website (Coming Soon)
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+- 🔹 System Monitor  
+- 🔹 Smart Calculator  
+- 🔹 Portfolio Website (in progress)
 
 ---
 
@@ -72,4 +65,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I use Arch Linux btw 😎
+> I enjoy building projects and learning new technologies.
