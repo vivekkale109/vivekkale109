@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Vivek Kale</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 Future Full Stack Developer</h3>
+<h3 align="center">💻 Computer Science Student | 🚀 Full Stack Developer in Progress</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00ADEF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;DSA+%7C+Web+Dev+%7C+Linux;Building+Projects+Everyday+🚀;Learning+Something+New+Daily+💡">
@@ -20,13 +20,15 @@
 <!-- ================= ABOUT ================= -->
 <h2>🧑‍💻 About Me</h2>
 
+I'm a passionate Computer Science student from India, dedicated to building scalable and efficient software solutions. With a strong foundation in DSA and web development, I'm on a journey to become a skilled Full Stack Developer.
+
 ```yaml
 Name: Vivek Kale
-Role: Computer Science Student
-Focus: Software Development + Problem Solving
-Currently Learning: Web Development, DSA
-Tech Interest: Backend + Systems + Linux
-Open To: Collaboration & Open Source
+Location: India
+Role: Computer Science Student | Developer
+Current Focus: Full Stack Development, DSA, Linux
+Currently Learning: Advanced Web Development, System Design
+Open To: Internships, Collaborations & Open Source
 Email: vivekkale109@gmail.com
 ```
 
@@ -36,14 +38,17 @@ Email: vivekkale109@gmail.com
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/vivek-kale-8095483b9">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <a href="https://linkedin.com/in/vivek-kale-8095483b9" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/vivekkale109">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <a href="https://github.com/vivekkale109" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/vivekkale109" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter"/>
   </a>
   <a href="mailto:vivekkale109@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
   </a>
 </p>
 
@@ -52,8 +57,16 @@ Email: vivekkale109@gmail.com
 <!-- ================= TECH STACK ================= -->
 <h2>⚒️ Tech Stack</h2>
 
+**Languages:** C • C++ • Python • Java • JavaScript
+
+**Frontend:** HTML5 • CSS3 • JavaScript • React
+
+**Backend:** Node.js • Express • REST APIs
+
+**Tools & Platforms:** Git • GitHub • VS Code • Linux • MySQL
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,express,git,github,vscode,linux,mysql" />
 </p>
 
 ---
@@ -62,14 +75,9 @@ Email: vivekkale109@gmail.com
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkale109&theme=tokyonight" />
 </p>
-
----
-
-<!-- ================= LANGUAGES ================= -->
-<h2>🧠 Most Used Languages</h2>
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight" />
@@ -81,9 +89,30 @@ Email: vivekkale109@gmail.com
 <h2>🚀 Featured Projects</h2>
 
 <ul>
-  <li>🔹 <b>System Monitor (Linux)</b> – Track CPU, RAM, Disk using /proc</li>
-  <li>🔹 <b>Smart Calculator</b> – Advanced math + scientific functions</li>
-  <li>🔹 <b>Portfolio Website</b> – Personal developer website</li>
+  <li>
+    <b>🔹 System Monitor (Linux)</b> – Real-time CPU, RAM, and Disk monitoring using /proc filesystem
+    <br/><em>Tech: C • Linux • System Programming</em>
+  </li>
+  <li>
+    <b>🔹 Smart Calculator</b> – Advanced mathematical calculator with scientific functions and history
+    <br/><em>Tech: C++ • Data Structures</em>
+  </li>
+  <li>
+    <b>🔹 Portfolio Website</b> – Personal developer portfolio showcasing projects and skills
+    <br/><em>Tech: HTML5 • CSS3 • JavaScript • Responsive Design</em>
+  </li>
+</ul>
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+<h2>🏆 Achievements</h2>
+
+<ul>
+  <li>📌 Solved 100+ DSA problems on competitive coding platforms</li>
+  <li>📌 Contributed to multiple open-source projects</li>
+  <li>📌 Built and deployed multiple full-stack projects</li>
+  <li>📌 Strong foundation in system programming and Linux</li>
 </ul>
 
 ---
@@ -92,24 +121,36 @@ Email: vivekkale109@gmail.com
 <h2>🎯 Goals 2026</h2>
 
 <ul>
-  <li>📌 Master Data Structures & Algorithms</li>
-  <li>📌 Become Full Stack Developer</li>
-  <li>📌 Contribute to Open Source</li>
-  <li>📌 Build real-world impactful projects</li>
+  <li>🎖️ Master advanced Data Structures & Algorithms</li>
+  <li>🎖️ Become a skilled Full Stack Developer</li>
+  <li>🎖️ Land an internship at a reputed tech company</li>
+  <li>🎖️ Contribute meaningfully to open-source projects</li>
+  <li>🎖️ Build real-world impactful projects that solve problems</li>
 </ul>
 
 ---
 
 <!-- ================= FUN ================= -->
-<h2>⚡ Fun Fact</h2>
+<h2>⚡ Fun Facts</h2>
 
 <p>
-💡 I enjoy building real-world projects and exploring new technologies every day.
+💡 I love the intersection of problem-solving and creative coding. When I'm not coding, you'll find me exploring new technologies, reading tech blogs, or contributing to open-source projects. Caffeine and Linux are my best friends! ☕🐧
+</p>
+
+---
+
+<!-- ================= CALL TO ACTION ================= -->
+<h2>💬 Let's Collaborate!</h2>
+
+<p align="center">
+  I'm always open to interesting projects and collaboration opportunities. Feel free to reach out if you want to work together or just have a chat about tech! 🚀
 </p>
 
 ---
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  ⭐ From <b>Vivek Kale</b> | Keep Coding 🚀
+  ⭐ Made with ❤️ by Vivek Kale | Keep Coding 🚀
+  <br/>
+  <sub>Last Updated: April 2026</sub>
 </p>
