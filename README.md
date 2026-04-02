@@ -1,116 +1,93 @@
-<!-- MasterHead -->
+<!-- 🔥 TOP BANNER -->
+<p align="center">
+  <img src="YOUR-BANNER-LINK" width="100%" />
+</p>
 
+<!-- 👋 INTRO -->
+<h1 align="center">Hey 👋, I'm Vivek Kale</h1>
 
-<div align="center">
-  
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Total Stars -->
-  <a href="https://github.com/vivekkale109?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/vivekkale109?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
-  </a>
-
-  <!-- Followers -->
-  <a href="https://github.com/vivekkale109?tab=followers">
-    <img src="https://img.shields.io/github/followers/vivekkale109?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
-  </a>
-
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=CS+Student;Linux+Enthusiast;System+Programmer;Open+Source+Learner" />
+</p>
 
 ---
+
+<!-- 📊 BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekkale109&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/vivekkale109?style=flat" />
+  <img src="https://img.shields.io/github/stars/vivekkale109?style=flat" />
+</p>
+
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ## 💫 About Me
 
-🌱 I am currently pursuing Computer Science and developing my programming skills  
-💻 Hands-on experience with C, Linux, and system-level concepts  
-⚙️ Exploring Web Development (HTML, CSS, JavaScript, Node.js)  
-🐧 Linux enthusiast (Arch + HyDE setups 😎)  
-🚀 Interested in Open Source, Automation, and Systems  
+- 🎓 Pursuing **Computer Science**
+- 🐧 Linux lover (Arch + HyDE setups 😎)
+- 💻 Building projects in **C, Web Dev & Systems**
+- 🚀 Exploring **Open Source & Automation**
+- ⚡ Always learning something new
 
 ---
 
-## 🧲 Drop me a line:
+## 🧠 Tech Stack
 
-<div align="left">
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img width="35px" src="https://img.icons8.com/color/48/gmail-new.png" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img width="35px" src="https://img.icons8.com/color/48/linkedin.png" />
-  </a>
-</div>
-
-<br><br>
-
----
-
-## 📚 Languages & Tools I Have Placed My Hands On
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,linux,git,github,vscode,bash,arch" />
-</div>
-
----
-
-## ⭐️ Interesting Repositories
-
-<div align="center">
-
-<a href="https://github.com/vivekkale109">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO" />
-</a>
-
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,nodejs,linux,bash,git,github,vscode,arch" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=nord" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=nord" />
-</div>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vivekkale109&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkale109&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
 
 ---
 
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vivekkale109&theme=nord" />
-</div>
-
----
-
-## 💰 Support Me
+## 🔥 Streak Stats
 
 <p align="center">
-  <a href="#">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" />
+  <img src="https://streak-stats.demolab.com/?user=vivekkale109&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+## 🚀 Featured Projects
 
 <p align="center">
-  ⚡ Designed & Customized by <strong>Vivek Kale</strong>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekkale109&repo=YOUR-REPO-2&theme=tokyonight" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"Code. Break. Learn. Repeat."</i>
 </p>
