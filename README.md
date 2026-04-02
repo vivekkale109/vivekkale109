@@ -1,7 +1,5 @@
 <!-- MasterHead -->
-<a href="#">
-  <img width="1000" height="500" src="YOUR-BANNER-IMAGE-LINK" alt="Banner"/>
-</a>
+
 
 <div align="center">
   
