@@ -69,10 +69,18 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 
 **Tools & Platforms:** Git • GitHub • VS Code • Linux • MySQL
 
+
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,express,git,github,vscode,linux,mysql,vim,arch,neovim,tailwind" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" /><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" /><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arch" />
+
 </p>
 
 ---
