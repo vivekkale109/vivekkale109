@@ -61,7 +61,7 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 <!-- ================= TECH STACK ================= -->
 <h2>⚒️ Tech Stack</h2>
 
-**Languages:** C • C++ • Python • Java • JavaScript
+**Languages:** C • C++ • Python • JavaScript
 
 **Frontend:** HTML5 • CSS3 • JavaScript • React
 
@@ -73,7 +73,7 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" /><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /><br>
 
