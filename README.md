@@ -73,7 +73,7 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" /><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" /><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /><br>
 
