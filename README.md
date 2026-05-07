@@ -79,7 +79,7 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" /><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arch" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,arch,docker" />
 
 </p>
 
