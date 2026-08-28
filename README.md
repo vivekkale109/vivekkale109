@@ -65,17 +65,6 @@ I'm a passionate Computer Science student from India, dedicated to building scal
 
 <br/>
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🔹 **System Monitor (Linux)** | Real-time CPU, RAM, and Disk monitoring using the `/proc` filesystem | C · Linux · System Programming |
-| 🔹 **Smart Calculator** | Advanced mathematical calculator with scientific functions and history | C++ · Data Structures |
-| 🔹 **Portfolio Website** | Personal developer portfolio showcasing projects and skills | HTML5 · CSS3 · JavaScript |
-
-<br/>
-
 <!-- ================= GOALS ================= -->
 ## 🎯 Goals for 2026
 
