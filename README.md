@@ -46,7 +46,7 @@ I'm a passionate Computer Science student from India, dedicated to building scal
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,vscode,neovim,vscodium,docker" />
+  <img src="https://skillicons.dev/icons?i=,git,github,linux,vscode,neovim,vscodium,docker" />
 </p>
 
 <br/>
